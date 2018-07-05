@@ -1,7 +1,7 @@
 {
   "name": "angular-template",
   "description": "",
-  "homepage": "https://stackblitz.com/edit/ng-element-demo-hello-world",
+  "homepage": "https://www.webcomponents.org/polyfills#custom-elements-polyfill",
   "dependencies": {
     "@angular/animations": "~6.0.2",
     "@angular/common": "~6.0.2",
